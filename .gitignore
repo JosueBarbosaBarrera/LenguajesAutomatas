@@ -1,3 +1,5 @@
 .vscode
 *.exe
 AlfabetosCadenas_Josue.exe
+automatas.cpp
+automatas.hpp
